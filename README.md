@@ -12,5 +12,5 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 
 #### Dataset:
 
-The dataset we'll use was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018. Let's take a look, using display() instead of print() since its output is much prettier in Jupyter Notebooks.
+The dataset we'll use was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
 

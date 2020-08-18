@@ -3,7 +3,7 @@ Draw insights from Superbowl Game event.
 
 #### TV, halftime shows, and the Superbowl game:
 
-we're going to answer questions like:
+Data Analysis of questions like:
 
     What are the most extreme game outcomes?
     How does the game affect television viewership?
